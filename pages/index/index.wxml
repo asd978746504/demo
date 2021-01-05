@@ -1,0 +1,6 @@
+<!--index.wxml-->
+<view class="container">
+  <van-button type="primary" bindtap="change">按钮</van-button>
+  <view>{{aaa}}</view>
+  
+</view>
